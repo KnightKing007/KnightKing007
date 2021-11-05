@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="centre"> Hi I am Knight King </h1>
+<h1 align="center">Hi I am Knight King</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KnightKing007&label=Profile%20Visits&color=000000" alt="KnightKing007" /> </p>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
