@@ -9,6 +9,7 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KnightKing007&show_icons=true&theme=dark&locale=en" alt="KnightKing007" /></p>
 
 <!--
 **KnightKing007/KnightKing007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
